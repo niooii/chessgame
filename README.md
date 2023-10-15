@@ -14,4 +14,5 @@ simple chess simulation written in c++ w/ SDL2 (almost done)
 - mode selection screen
 
 # Game
-![image](https://github.com/niooii/chessgame/assets/121910815/4cda9971-36ad-4532-89a4-5f1281deee62)
+![image](https://github.com/niooii/chessgame/assets/121910815/5b86c91c-c221-448b-a3f7-9f1639c66b70)
+
